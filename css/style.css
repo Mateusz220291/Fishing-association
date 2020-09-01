@@ -65,6 +65,7 @@ html {
 .page .page__menu .menu__item {
   margin: 0px 5px;
   text-align: center;
+  padding: 15px;
   border-bottom: dotted darkgreen 2px;
   cursor: pointer;
   -webkit-transition: 0.5s;
