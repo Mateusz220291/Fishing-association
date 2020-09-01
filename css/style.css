@@ -12,7 +12,7 @@ html {
 
 .page {
   font-family: 'Roboto', sans-serif;
-  background-color: lightgreen;
+  background-color: #839e83;
 }
 
 @media (orientation: landscape) {
