@@ -12,7 +12,7 @@ html {
 
 .page {
   font-family: 'Roboto', sans-serif;
-  background-color: #839e83;
+  background-color: rgba(64, 255, 64, 0.5);
 }
 
 @media (orientation: landscape) {
@@ -348,7 +348,6 @@ html {
   background-color: #e7f8ec;
   overflow: hidden;
   position: relative;
-  border: solid 1px darkgreen;
   -webkit-transform: scale(0);
           transform: scale(0);
   -webkit-transition: .4s linear;
